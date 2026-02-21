@@ -29,7 +29,7 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-GEMINI_API_KEY = "AIzaSyCMvW74vTiJiJgetKjIxOPj3Bor2j3WT78"
+GEMINI_API_KEY = "AIzaSyC2b0guggvnzwTq5XaFM1a2V-SwRxvnYz4"
 
 api_key = GEMINI_API_KEY
 
@@ -152,4 +152,5 @@ st.markdown(
     </div>
     """,
     unsafe_allow_html=True
+
 )
